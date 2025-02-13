@@ -42,7 +42,7 @@ def list_books():
     :return: A list of dictionaries with each book's details
     """
     
-
+    print("done")
      
 
     # TODO: Read all books from the database file and return them as a list of dictionaries
